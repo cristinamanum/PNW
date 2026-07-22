@@ -1,40 +1,40 @@
-Experiences that are **uniquely Pacific Northwest** for a 3 days trip.
+Experiences that are **uniquely Pacific Northwest** for a 3 day trip.
 
 ---
 
 # Best Pacific Northwest Experiences
 
-| Attraction                             | Type          | Drive/Travel Time | Transportation | Tickets?           | Why it's Unique to the PNW                                  |
-| -------------------------------------- | ------------- | -------------------------------- | -------------- | ------------------ | ----------------------------------------------------------- |
-| Mount Rainier National Park            | National Park | 2–2.5 hrs                        | Car            | National Park Pass | Massive glacier-covered volcano, alpine meadows, waterfalls |
-| Olympic National Park                  | National Park | 3 hrs + ferry                    | Car + Ferry    | National Park Pass | Rainforest + mountains + rugged coast in one park           |
-| Deception Pass State Park              | State Park    | 1.75 hrs                         | Car            | No                 | Dramatic cliffs, bridges, whirlpools, ocean views           |
-| Snoqualmie Falls                       | Waterfall     | 30 min                           | Car            | No                 | One of America's largest waterfalls, very close             |
-| Rattlesnake Ledge                      | Hike          | 30 min                           | Car            | No                 | Classic PNW hike overlooking alpine lake                    |
-| Mount Si                               | Hiking        | 30 min                           | Car            | Discover Pass      | Challenging hike with iconic views                          |
-| Cougar Mountain Regional Wildland Park | Forest Hiking | 20 min                           | Car            | No                 | Moss-covered forest that defines the PNW                    |
-| North Bend                             | Small Town    | 30 min                           | Car            | No                 | Twin Peaks filming locations, mountain scenery              |
+| Attraction                             | Type          | Drive/Travel Time | Transportation | Why it's Unique to the PNW                                  |
+| -------------------------------------- | ------------- | -------------------------------- | -------------- | ----------------------------------------------------------- |
+| Mount Rainier National Park            | National Park | 2–2.5 hrs                        | Car            | Massive glacier-covered volcano, alpine meadows, waterfalls |
+| Olympic National Park                  | National Park | 3 hrs + ferry                    | Car + Ferry    | Rainforest + mountains + rugged coast in one park           |
+| Deception Pass State Park              | State Park    | 1.75 hrs                         | Car            | Dramatic cliffs, bridges, whirlpools, ocean views           |
+| Snoqualmie Falls                       | Waterfall     | 30 min                           | Car            | One of America's largest waterfalls, very close             |
+| Rattlesnake Ledge                      | Hike          | 30 min                           | Car            | Classic PNW hike overlooking alpine lake                    |
+| Mount Si                               | Hiking        | 30 min                           | Car            | Challenging hike with iconic views                          |
+| Cougar Mountain Regional Wildland Park | Forest Hiking | 20 min                           | Car            | Moss-covered forest that defines the PNW                    |
+| North Bend                             | Small Town    | 30 min                           | Car            | Twin Peaks filming locations, mountain scenery              |
 
 ---
 
 # Islands & Ferry Experiences
 
-| Attraction        | Type   | Travel Time  | Transportation        | Tickets?                   | Notes                       |
-| ----------------- | ------ | ------------ | --------------------- | -------------------------- | --------------------------- |
-| Bainbridge Island | Island | 50 min total | Drive + Walk-on Ferry | Ferry ticket               | Best first island visit     |
-| Vashon Island     | Island | 1 hr         | Ferry + Car           | Ferry                      | Rural farms and beaches     |
-| Whidbey Island    | Island | 1.5 hrs      | Car                   | No (if driving via bridge) | Combine with Deception Pass |
+| Attraction        | Type   | Travel Time  | Transportation        | Notes                       |
+| ----------------- | ------ | ------------ | --------------------- | --------------------------- |
+| Bainbridge Island | Island | 50 min total | Drive + Walk-on Ferry | Best first island visit     |
+| Vashon Island     | Island | 1 hr         | Ferry + Car           | Rural farms and beaches     |
+| Whidbey Island    | Island | 1.5 hrs      | Car                   | Combine with Deception Pass |
 
 ---
 
 # Mountain Towns
 
-| Attraction    | Type                  | Travel Time | Transportation | Tickets? |
-| ------------- | --------------------- | ----------- | -------------- | -------- |
-| Leavenworth   | Bavarian Town         | 2.5 hrs     | Car            | No       |
-| Roslyn        | Historic Western Town | 1.5 hrs     | Car            | No       |
-| Port Townsend | Victorian Seaport     | 2.5 hrs     | Car + Ferry    | Ferry    |
-| Poulsbo       | Norwegian Town        | 1.5 hrs     | Car + Ferry    | Ferry    |
+| Attraction    | Type                  | Travel Time | Transportation |
+| ------------- | --------------------- | ----------- | -------------- |
+| Leavenworth   | Bavarian Town         | 2.5 hrs     | Car            |
+| Roslyn        | Historic Western Town | 1.5 hrs     | Car            |
+| Port Townsend | Victorian Seaport     | 2.5 hrs     | Car + Ferry    |
+| Poulsbo       | Norwegian Town        | 1.5 hrs     | Car + Ferry    | 
 
 ---
 
@@ -42,27 +42,27 @@ Experiences that are **uniquely Pacific Northwest** for a 3 days trip.
 
 These are things visitors from Toronto usually cannot experience.
 
-| Activity                   | Best Location                   | Travel Time  | Tickets?      |
-| -------------------------- | ------------------------------- | ------------ | ------------- |
-| Puget Sound Whale Watching | Anacortes / Edmonds / Seattle   | 1–2 hrs      | Yes           |
-| Bald Eagles                | Discovery Park / Deception Pass | 45 min–2 hrs | No            |
-| Harbor Seals               | Seattle Waterfront              | 30 min       | No            |
-| Sea Lions                  | Ballard Locks                   | 35 min       | No (seasonal) |
-| Salmon Ladder              | Hiram M. Chittenden Locks       | 35 min       | No            |
+| Activity                   | Best Location                   | Travel Time  | 
+| -------------------------- | ------------------------------- | ------------ |
+| Puget Sound Whale Watching | Anacortes / Edmonds / Seattle   | 1–2 hrs      |
+| Bald Eagles                | Discovery Park / Deception Pass | 45 min–2 hrs |
+| Harbor Seals               | Seattle Waterfront              | 30 min       |
+| Sea Lions                  | Ballard Locks                   | 35 min       | 
+| Salmon Ladder              | Hiram M. Chittenden Locks       | 35 min       |
 
 ---
 
 # Seattle Must-Do List
 
-| Attraction                 | Type              | Time    | Tickets?    |
-| -------------------------- | ----------------- | ------- | ----------- |
-| Pike Place Market          | Market            | 2 hrs   | No          |
-| Space Needle               | Observation Tower | 1 hr    | Yes         |
-| Chihuly Garden and Glass   | Art               | 1.5 hrs | Yes         |
-| Seattle Aquarium           | Aquarium          | 2 hrs   | Yes         |
-| Olympic Sculpture Park     | Waterfront Walk   | 1 hr    | No          |
-| Amazon Spheres             | Architecture      | 30 min  | Reservation |
-| Starbucks Reserve Roastery | Coffee Experience | 1 hr    | No          |
+| Attraction                 | Type              | Time    | 
+| -------------------------- | ----------------- | ------- | 
+| Pike Place Market          | Market            | 2 hrs   | 
+| Space Needle               | Observation Tower | 1 hr    |
+| Chihuly Garden and Glass   | Art               | 1.5 hrs | 
+| Seattle Aquarium           | Aquarium          | 2 hrs   | 
+| Olympic Sculpture Park     | Waterfront Walk   | 1 hr    | 
+| Amazon Spheres             | Architecture      | 30 min  | 
+| Starbucks Reserve Roastery | Coffee Experience | 1 hr    | 
 
 ---
 
@@ -97,27 +97,27 @@ These are things visitors from Toronto usually cannot experience.
 
 These are very Pacific Northwest.
 
-| Activity                        | Travel | Tickets     |
-| ------------------------------- | ------ | ----------- |
-| Lake Union Kayak                | 30 min | Rental      |
-| Seaplane watching on Lake Union | 30 min | No          |
-| Hot tub boats                   | 30 min | Reservation |
-| Argosy Harbor Cruise            | 30 min | Yes         |
-| Sunset Ferry Ride               | 30 min | Ferry fare  |
+| Activity                        | Travel | 
+| ------------------------------- | ------ |
+| Lake Union Kayak                | 30 min | 
+| Seaplane watching on Lake Union | 30 min | 
+| Hot tub boats                   | 30 min |
+| Argosy Harbor Cruise            | 30 min | 
+| Sunset Ferry Ride               | 30 min | 
 
 ---
 
 # Unique Pacific Northwest Experiences
 
-| Experience                                                        | Travel          | Tickets |
-| ----------------------------------------------------------------- | --------------- | ------- |
-| Glass Beach at Port Townsend                                      | 2.5 hrs         | No      |
-| Twin Peaks filming locations (North Bend)                         | 30 min          | No      |
-| Snoqualmie Falls + Salish Lodge                                   | 30 min          | No      |
-| Salmon spawning (Sept–Oct)                                        | Various         | No      |
-| Mushroom-filled old growth forests                                | Cougar Mountain | No      |
-| Tide pooling                                                      | Olympic Coast   | No      |
-| Watching "The Mountain is Out" (Mt. Rainier visible from Seattle) | Anywhere        | Free    |
+| Experience                                                        | Travel          | 
+| ----------------------------------------------------------------- | --------------- | 
+| Glass Beach at Port Townsend                                      | 2.5 hrs         |
+| Twin Peaks filming locations (North Bend)                         | 30 min          | 
+| Snoqualmie Falls + Salish Lodge                                   | 30 min          |
+| Salmon spawning (Sept–Oct)                                        | Various         |
+| Mushroom-filled old growth forests                                | Cougar Mountain |
+| Tide pooling                                                      | Olympic Coast   |
+| Watching "The Mountain is Out" (Mt. Rainier visible from Seattle) | Anywhere        | 
 
 ---
 
